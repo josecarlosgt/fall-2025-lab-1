@@ -2,4 +2,5 @@
 ## HTTML Basics
 
 In this project, we created an HTML document from scratch.
+
 [Link to my page](https://josecarlosgt.github.io/fall-2025-lab-1/)
